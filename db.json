@@ -3,13 +3,13 @@
             "id": 0,
             "name": "qxseb",
             "rank": "chairman",
-            "description": "a complete noob"
+            "description": "first noob"
         },
         {
             "id": 1,
             "name": "dimsen",
             "rank": "dev",
-            "description": "ANOTHER NOOB"
+            "description": "2nd noob"
         }
     ]
 }
