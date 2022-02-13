@@ -1,0 +1,15 @@
+{
+    "testers": [{
+            "id": 0,
+            "name": "qxseb",
+            "rank": "chairman",
+            "description": "a complete noob"
+        },
+        {
+            "id": 1,
+            "name": "dimsen",
+            "rank": "dev",
+            "description": "ANOTHER NOOB"
+        }
+    ]
+}
